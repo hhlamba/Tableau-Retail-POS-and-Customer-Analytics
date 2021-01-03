@@ -5,6 +5,8 @@ Designed a robust modern layout dashboard with Navigation panels that focus on v
 
 
 <p align = "center">
+  <h3 align = "center"><a href="https://public.tableau.com/profile/hhlamba#!/vizhome/RetailPOSandCustomerAnalyticsDashboard/NationwideSales"> Tableau Dashboard </a>
+  <br></h3>
   <H4 align = "center">Nationwide Sales</h4>
   <img src="https://github.com/hhlamba/Tableau-Retail-POS-and-Customer-Analytics/blob/main/Screenshot/Nationwide%20Sales.png">
   <br><br>
